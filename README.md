@@ -12,7 +12,7 @@
 
 ### How to install `wine-stable` using [brew](https://brew.sh/)
 ```
-brew install --cask --no-quarantine wine-stable
+brew install --cask wine-stable
 ```
 This will install `Wine Stable` into `/Applications`
 
@@ -109,6 +109,6 @@ Download the desired package from [releases](https://github.com/Gcenx/macOS_Wine
 <br>
 
 > [!NOTE]
-> ## Don't open wine issues here!;
+> ## Don't open wine issues here!
 > Wine bugs/regressions need to be reported via [Winehq Bugzilla](https://bugs.winehq.org/)\
 > _Packaging related issues should be reported here._
