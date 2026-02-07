@@ -35,7 +35,7 @@ Download the desired package from [releases](https://github.com/Gcenx/macOS_Wine
 ### Build dependencies 
 - bison
 - gstreamer-development
-- mingw-w64
+- llvm-mingw
 - pkgconfig
 - Xcode
 
