@@ -70,7 +70,7 @@ Download the desired package from [releases](https://github.com/Gcenx/macOS_Wine
 --with-gstreamer \
 --with-inotify \
 --without-krb5 \
---with-mingw \
+--with-mingw=/opt/local/libexec/llvm-mingw/bin/clang \
 --without-netapi \
 --with-opencl \
 --without-opengl \
